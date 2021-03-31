@@ -1,4 +1,4 @@
-package com.simplify.studySpringBoot;
+package com.simplify.studySpringBoot.controller;
 
 import org.springframework.web.bind.annotation.*;
 
